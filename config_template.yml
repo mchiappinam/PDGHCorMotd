@@ -1,0 +1,23 @@
+Ativado: false
+#Gladiador
+Gladiador:
+  Ativado: false
+DivulgarGladiador:
+  Dia: sabado
+  Hora: '2600'
+MensagensGladiador:
+  Motd: ''
+  Broadcast:
+    Default: true
+    Msg_Se_Em_Default_Estiver_False: '&3&l[Gladiador] &cEvento gladiador hoje as 00:00h'
+#Mina
+Mina:
+  Ativado: false
+DivulgarMina:
+  Dia: domingo
+  Hora: '2600'
+MensagensMina:
+  Motd: ''
+  Broadcast:
+    Default: true
+    Msg_Se_Em_Default_Estiver_False: '&d[Evento Automatico] &cEvento mina hoje as 00:00h'
